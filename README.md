@@ -2,7 +2,7 @@
 
 Statistics and Data Science student at LMU Munich, with a minor in Computer Science.
 
-Interested in Machine Learning, AI and Data Analysis
+Interested in Machine Learning, AI and Data Analysis.
 
 ## Projects
 
