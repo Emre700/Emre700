@@ -2,7 +2,9 @@
 
 Statistics and Data Science student at LMU Munich, with a minor in Computer Science.
 
-Interested in Machine Learning, AI and Data Analysis. Currently focused on building clean, reproducible analysis workflows in Python and R.
+Interested in Machine Learning, AI and Data Analysis.
+
+Currently focused on building clean, reproducible analysis workflows in Python and R.
 
 ✉️ [emre.kevin.kara05@gmail.com](mailto:emre.kevin.kara05@gmail.com)
 
