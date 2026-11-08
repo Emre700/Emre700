@@ -1,6 +1,6 @@
 # Emre Kara
 
-Statistics &amp; Data Science student at LMU Munich, with a minor in Computer Science.
+Statistics and Data Science student at LMU Munich, with a minor in Computer Science.
 
 Interested in Machine Learning, AI and Data Analysis
 
@@ -11,7 +11,7 @@ Interested in Machine Learning, AI and Data Analysis
   <thead>
     <tr>
       <th align="left">Project</th>
-      <th align="left">What it does</th>
+      <th align="left">Description</th>
       <th align="left">Tech Stack</th>
     </tr>
   </thead>
@@ -42,7 +42,7 @@ Interested in Machine Learning, AI and Data Analysis
 
 **Languages:** Python, R
 
-**Libraries:** pandas, NumPy, scikit-learn, ggplot2, tidyverse
+**Libraries:** pandas, NumPy, scikit-learn, ggplot2, dplyr
 
 **Tools:** Git, GitHub, VS Code, RStudio, Jupyter Notebook
 
