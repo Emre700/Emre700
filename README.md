@@ -4,6 +4,8 @@ Statistics and Data Science student at LMU Munich, with a minor in Computer Scie
 
 Interested in Machine Learning, AI and Data Analysis.
 
+✉️ [emre.kevin.kara05@gmail.com](mailto:emre.kevin.kara05@gmail.com)
+
 ## Projects
 
 
@@ -40,7 +42,7 @@ Interested in Machine Learning, AI and Data Analysis.
 
 ## Tech Stack
 
-**Languages:** Python, R
+**Languages:** Python, R, SQL
 
 **Libraries:** pandas, NumPy, scikit-learn, ggplot2, dplyr
 
