@@ -4,8 +4,6 @@ Statistics &amp; Data Science student at LMU Munich, with a minor in Computer Sc
 
 Interested in Machine Learning, AI and Data Analysis
 
-<a href="https://github.com/emre700">GitHub</a>
-
 ## Projects
 
 <table>
@@ -18,10 +16,8 @@ Interested in Machine Learning, AI and Data Analysis
 
 ## Tech Stack
 
-**Languages:** Python, R
+**Languages:** Python, R \\
 **Libraries:** pandas, NumPy, scikit-learn, ggplot2, tidyverse
 **Tools:** Git, GitHub, VS Code, RStudio, Jupyter Notebook
 
 ---
-
-<sub>2 public repositories · 0 stars · 64 contributions in the last year · Case File by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
